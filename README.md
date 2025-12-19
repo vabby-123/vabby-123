@@ -1,5 +1,4 @@
 - 👋 Hola, I’m Vaibhav Pratap Singh
-- 📚 I'm currently 3rd Year CSE student
 - 👀 I’m interested in Web development and Mobile Development
 - 🌱 I’m currently learning and enhancing problem solving skills
 - 💞️ I’m looking to collaborate on Github
